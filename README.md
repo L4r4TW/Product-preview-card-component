@@ -36,7 +36,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/product-preview-card-component-8x8Rw6FX2\_](https://www.frontendmentor.io/solutions/product-preview-card-component-8x8Rw6FX2_)
 - Live Site URL: [https://l4r4tw.github.io/Product-preview-card-component/](https://l4r4tw.github.io/Product-preview-card-component/)
 
 ## My process
@@ -62,7 +62,7 @@ In the future I want to improve my responsive design knowledge, and start practi
 
 ## Author
 
-- Frontend Mentor - [@L4r4TW](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@L4r4TW](https://www.frontendmentor.io/profile/L4r4TW)
 - Twitter - [@L4r4TW](https://x.com/L4r4TW)
 - LinkdedIn - [bruno-banoczi-csernak](https://www.linkedin.com/in/bruno-banoczi-csernak/)
 
