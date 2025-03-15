@@ -37,7 +37,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://l4r4tw.github.io/Product-preview-card-component/](https://l4r4tw.github.io/Product-preview-card-component/)
 
 ## My process
 
@@ -64,7 +64,7 @@ In the future I want to improve my responsive design knowledge, and start practi
 
 - Frontend Mentor - [@L4r4TW](https://www.frontendmentor.io/profile/yourusername)
 - Twitter - [@L4r4TW](https://x.com/L4r4TW)
-- LinkdedIn - [bruno-banoczi-cserna](https://www.linkedin.com/in/bruno-banoczi-csernak/)
+- LinkdedIn - [bruno-banoczi-csernak](https://www.linkedin.com/in/bruno-banoczi-csernak/)
 
 ## Acknowledgments
 
